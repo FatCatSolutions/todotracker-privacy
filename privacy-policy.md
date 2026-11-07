@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 7 November 2026 <!-- TODO(owner): set to the publication date -->
+Last updated: 7 November 2026
 
 This policy explains what the ToDoTracker app ("the App", "we", "us") does with your information. FatCatSolutions ("the Developer") provides the App.
 
@@ -26,7 +26,7 @@ These backups are stored in your own Apple or Google account and fall under Appl
 
 ## 3. Diagnostics
 
-The App uses Sentry to collect crash reports, error reports, and reports of the App freezing, so we can fix bugs. A report may include your device model, operating-system version, App version, technical details such as stack traces, the App's recent technical log messages, and a random installation ID that Sentry's software creates on your device. The App tells Sentry not to collect your IP address or other personal details, and never attaches screenshots or screen layouts. Reports are designed to leave out your tracker names, list titles, and task text. <!-- TODO(owner): confirm on a real release-build event (RELEASE.md §6) and that "Prevent storing of IP addresses" is on in the Sentry project --> We don't use reports to identify you.
+The App uses Sentry to collect crash reports, error reports, and reports of the App freezing, so we can fix bugs. A report may include your device model, operating-system version, App version, technical details such as stack traces, the App's recent technical log messages, and a random installation ID that Sentry's software creates on your device. The App tells Sentry not to collect your IP address or other personal details, and never attaches screenshots or screen layouts. Reports are designed to leave out your tracker names, list titles, and task text. We don't use reports to identify you.
 
 The App has no usage analytics. It sends no statistics about how you use it.
 
@@ -67,7 +67,7 @@ Depending on where you live (for example under the EU/UK GDPR or the California 
 
 ## 9. Children's privacy
 
-The App is made for a general audience and is not aimed at children. <!-- TODO(owner): match the Play Console target-audience answer --> We don't knowingly collect personal information from children under 13, or under the minimum age in your country. If you think a child has given us information, contact us and we will delete it.
+The App is made for a general audience and is not aimed at children. We don't knowingly collect personal information from children under 13, or under the minimum age in your country. If you think a child has given us information, contact us and we will delete it.
 
 ## 10. Security
 

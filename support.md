@@ -1,6 +1,6 @@
 # Support
 
-Stuck with ToDoTracker? Email us at [fatcatsolutions.tech@gmail.com](mailto:fatcatsolutions.tech@gmail.com). We reply within 24 hours. <!-- TODO(owner): confirm the reply time, and add "You can also write to us from the app: Settings → About → Send feedback" once that row ships -->
+Stuck with ToDoTracker? Email us at [fatcatsolutions.tech@gmail.com](mailto:fatcatsolutions.tech@gmail.com). We reply within 24 hours.
 
 ## Frequently asked questions
 

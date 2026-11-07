@@ -84,7 +84,7 @@ The laws of the Netherlands govern these terms, without regard to conflict-of-la
 
 We may update these terms from time to time, so check this page now and then. We will tell you about changes by posting the new terms here.
 
-These terms are effective as of 7 November 2026. <!-- TODO(owner): set to the publication date -->
+These terms are effective as of 7 November 2026.
 
 ## Contact us
 
