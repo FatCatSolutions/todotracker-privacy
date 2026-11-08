@@ -36,7 +36,7 @@ Apple (App Store) or Google (Google Play) processes subscriptions. The App never
 
 ## 5. Device permissions
 
-- Notifications: asked only when you add your first reminder to a tracker, or when you tap the notifications link in Settings. Reminders are local notifications scheduled on your device. Nothing is sent to us.
+- Notifications: asked only when you save a tracker that has reminders, or when you tap Allow on the message explaining that reminders need it. Reminders are local notifications scheduled on your device. Nothing is sent to us.
 - Background refresh (iPhone) and running after a restart (Android): used only to reschedule your reminders, for example after the phone restarts or the time zone changes.
 - Network state (Android): used only to reload subscription prices when the connection comes back.
 

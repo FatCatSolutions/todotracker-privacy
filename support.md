@@ -23,7 +23,7 @@ Cancel from your store account, or from Settings &rarr; Manage subscription in t
 Everything you made stays on your phone, and you can still see it all. Creating, ticking, and editing need a subscription again, and reminders stop.
 
 ### Why didn't a reminder arrive?
-Check that notifications are on for ToDoTracker, in the app's Settings &rarr; Reminders or in your phone's settings, and that Pause all reminders is off. Reminders don't arrive once today is ticked, or outside the tracker's dates and pauses. On iPhone, keep Background App Refresh on for the app. On Android, a reminder may arrive a few minutes late, and battery saving can delay it more. If you haven't opened the app for about a week, Android may deliver only one reminder a day until you open it again.
+Check that notifications are on for ToDoTracker in your phone's settings, and that Pause all reminders is off in the app's Settings. When notifications are off, the app's Settings shows a link to turn them on. Reminders don't arrive once today is ticked, or outside the tracker's dates and pauses. On iPhone, keep Background App Refresh on for the app. On Android, a reminder may arrive a few minutes late, and battery saving can delay it more. If you haven't opened the app for about a week, Android may deliver only one reminder a day until you open it again.
 
 ### How do I move to a new phone?
 The app has no account or export. Your data moves with your phone's own backup or transfer: iCloud Backup or Quick Start on iPhone, and Google backup or the transfer during setup on Android. It can't move between iPhone and Android. After moving, tap Restore purchases to restore your subscription.
