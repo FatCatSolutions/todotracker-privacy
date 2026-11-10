@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-These terms apply to the ToDoTracker mobile app ("the App"), a commercial service created by FatCatSolutions ("we", "us"). By downloading or using the App, you agree to them, so please read them first.
+These terms apply to the Sankalpa mobile app ("the App"), a commercial service created by FatCatSolutions ("we", "us"). By downloading or using the App, you agree to them, so please read them first.
 
 You may not copy or modify the App, any part of it, or our trademarks. You may not try to extract its source code, translate it, or create derivative versions. All trademarks, copyrights, database rights, and other intellectual property in the App belong to us. The trackers, lists, and tasks you create with the App, and the data you enter into it, remain yours.
 

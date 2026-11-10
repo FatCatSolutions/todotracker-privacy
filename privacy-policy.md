@@ -2,9 +2,9 @@
 
 Last updated: 7 November 2026
 
-This policy explains what the ToDoTracker app ("the App", "we", "us") does with your information. FatCatSolutions ("the Developer") provides the App.
+This policy explains what the Sankalpa app ("the App", "we", "us") does with your information. FatCatSolutions ("the Developer") provides the App.
 
-ToDoTracker keeps your data on your device. There is no account system, so you never sign up and never give us your name, email, phone number, or a password. We don't run a server that stores your trackers, lists, or tasks, and we don't build advertising profiles.
+Sankalpa keeps your data on your device. There is no account system, so you never sign up and never give us your name, email, phone number, or a password. We don't run a server that stores your trackers, lists, or tasks, and we don't build advertising profiles.
 
 ## 1. Data stored only on your device
 
